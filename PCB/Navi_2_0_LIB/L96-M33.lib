@@ -1,0 +1,54 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# L96-M33
+#
+DEF L96-M33 U 0 40 Y Y 1 L N
+F0 "U" -701 921 50 H V L BNN
+F1 "L96-M33" -701 -1001 50 H V L BNN
+F2 "XCVR_L96-M33" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "SOIC-8 Quectel Wireless Solutions Co., Ltd" 0 0 50 H I L BNN "PACKAGE"
+F5 "None" 0 0 50 H I L BNN "PRICE"
+F6 "L96" 0 0 50 H I L BNN "MP"
+F7 "Unavailable" 0 0 50 H I L BNN "AVAILABILITY"
+F8 "Quectel Wireless Solutions Co., Ltd" 0 0 50 H I L BNN "MF"
+F9 "L96 is a concurrent multi-GNSS receiver module with embedded chip antenna. With 33 tracking channels, 99 acquisition channels and 210 PRN channels, L96 supports concurrent reception of up to three GNSS systems _GPS+GLONASS+Galileo_" 0 0 50 H I L BNN "DESCRIPTION"
+DRAW
+S -700 -900 700 900 0 0 10 f
+X V_BCKP 8 900 700 200 L 40 40 0 0 W 
+X VCC 9 900 800 200 L 40 40 0 0 W 
+X ~RESET 23 -900 500 200 R 40 40 0 0 I 
+X TXD1 25 -900 200 200 R 40 40 0 0 O 
+X RXD1 26 -900 300 200 R 40 40 0 0 I 
+X RF_OUT 16 900 500 200 L 40 40 0 0 O 
+X RF_IN 17 900 400 200 L 40 40 0 0 I 
+X ANTON 30 900 200 200 L 40 40 0 0 O 
+X EXTINT0 7 -900 -400 200 R 40 40 0 0 I 
+X TIMEPULSE 29 900 0 200 L 40 40 0 0 O 
+X FORCE_ON 28 -900 -300 200 R 40 40 0 0 I 
+X I2C_SDA 3 -900 -100 200 R 40 40 0 0 B 
+X I2C_SCL 6 -900 0 200 R 40 40 0 0 B C
+X 3D_FIX 2 900 -100 200 L 40 40 0 0 O 
+X JAM_DET 20 900 -300 200 L 40 40 0 0 O 
+X GEO_FENCE 24 900 -400 200 L 40 40 0 0 O 
+X GND 4 900 -700 200 L 40 40 0 0 W 
+X GND 5 900 -700 200 L 40 40 0 0 W 
+X GND 10 900 -700 200 L 40 40 0 0 W 
+X GND 11 900 -700 200 L 40 40 0 0 W 
+X GND 12 900 -700 200 L 40 40 0 0 W 
+X GND 13 900 -700 200 L 40 40 0 0 W 
+X GND 14 900 -700 200 L 40 40 0 0 W 
+X GND 15 900 -700 200 L 40 40 0 0 W 
+X GND 18 900 -700 200 L 40 40 0 0 W 
+X GND 19 900 -700 200 L 40 40 0 0 W 
+X GND 21 900 -700 200 L 40 40 0 0 W 
+X GND 22 900 -700 200 L 40 40 0 0 W 
+X GND 27 900 -700 200 L 40 40 0 0 W 
+X GND 31 900 -700 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

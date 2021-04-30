@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Navi_2_0)(type KiCad)(uri ${KIPRJMOD}/Navi_2_0.pretty)(options "")(descr ""))
+  (lib (name Kicad)(type KiCad)(uri D:/ProjectsNextcloud/IndiaNavi/Kicad)(options "")(descr ""))
+  (lib (name KiCad)(type KiCad)(uri D:/Projects/Eieiei.lol/KiCad)(options "")(descr ""))
+)
