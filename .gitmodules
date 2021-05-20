@@ -1,3 +1,6 @@
 [submodule "PCB"]
 	path = PCB
 	url = git@github.com:DasBasti/IndiaNavi_PCB.git
+[submodule "CONVERTER"]
+	path = CONVERTER
+	url = git@github.com:DasBasti/IndiaNavi_CONVERTER.git
