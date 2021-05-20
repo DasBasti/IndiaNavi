@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "mt3420c")(type "Legacy")(uri "D:/ProjectsNextcloud/IndiaNavi/Kicad/mt3420c.lib")(options "")(descr ""))
-  (lib (name "L96-M33")(type "Legacy")(uri "${KIPRJMOD}/Navi_2_0_LIB/L96-M33.lib")(options "")(descr ""))
-  (lib (name "Navi_2_0-rescue")(type "Legacy")(uri "${KIPRJMOD}/Navi_2_0-rescue.lib")(options "")(descr ""))
-)
