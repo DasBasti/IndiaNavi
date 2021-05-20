@@ -1,0 +1,3 @@
+[submodule "PCB"]
+	path = PCB
+	url = git@github.com:DasBasti/IndiaNavi_PCB.git
