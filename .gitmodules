@@ -4,3 +4,6 @@
 [submodule "CONVERTER"]
 	path = CONVERTER
 	url = git@github.com:DasBasti/IndiaNavi_CONVERTER.git
+[submodule "Firmware"]
+	path = Firmware
+	url = git@github.com:DasBasti/IndiaNavi_Firmware.git
