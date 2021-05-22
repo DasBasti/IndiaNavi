@@ -2,7 +2,7 @@
 	path = PCB
 	url = git@github.com:DasBasti/IndiaNavi_PCB.git
 [submodule "CONVERTER"]
-	path = CONVERTER
+	path = Converter
 	url = git@github.com:DasBasti/IndiaNavi_CONVERTER.git
 [submodule "Firmware"]
 	path = Firmware
